@@ -1,4 +1,4 @@
-# sales-analysis-powerbi
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/4a2ef738-82bf-4b4f-9f36-df73a1ef2d5f" /><img width="1880" height="901" alt="image" src="https://github.com/user-attachments/assets/a955f037-e78d-4223-a8bd-911c25661b75" /># sales-analysis-powerbi
 Interactive Power BI Sales Dashboard designed to analyze revenue, profit, quantity sold, shipping performance, and category-wise sales trends. The dashboard includes KPI cards, slicers, bookmarks, navigation buttons, and dynamic visualizations to provide meaningful business insights and improve decision-making.
 
 
@@ -40,6 +40,18 @@ The dashboard helps identify:
 - Total Revenue
 - Total Profit
 - Total Quantity Sold
+
+---
+
+## Dashboard Screenshots
+
+### Page 1
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/c265d037-2b4d-49ad-94e8-fc40aca75ccd" />
+
+
+### Page 2
+<img width="1311" height="733" alt="image" src="https://github.com/user-attachments/assets/82590fa8-7760-4e20-83e9-1f82f0feafe3" />
+
 
 ---
 
