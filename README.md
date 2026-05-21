@@ -50,7 +50,8 @@ The dashboard helps identify:
 
 
 ### Page 2
-<img width="1311" height="733" alt="image" src="https://github.com/user-attachments/assets/78181266-a671-4c49-8136-42549050fdf2" />
+<img width="1307" height="731" alt="image" src="https://github.com/user-attachments/assets/3a7abf7e-828c-40fe-bbf6-068713494ee6" />
+
 
 ---
 
